@@ -1,0 +1,2 @@
+# helloGitHub
+#discrete mathematics
